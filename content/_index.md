@@ -9,9 +9,9 @@ personal_title: "Mechanics Undergraduate"
 address: 
   - 
     name: College of Engineering, Peking University
-    street: 5th Yiheyuan Rd.
+    street: No.5 Yiheyuan Rd.
     postal_code: "100871"
-    locality: Beijing, China
+    locality: Beijing, P.R.China
 
 publications:
   - 
