@@ -1,6 +1,6 @@
 ---
 imgname: 
-  name: "img/main.jpg"
+  name: "img/personal.JPG"
   alt: "Picture of me"
   type: image/jpeg
   
