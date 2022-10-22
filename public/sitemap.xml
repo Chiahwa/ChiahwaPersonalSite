@@ -3,15 +3,114 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <url>
-        <loc>https://chiahwa.top/categories/</loc>
+        <loc>https://chiahwa.top/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
-        <loc>https://chiahwa.top/</loc>
+        <loc>https://chiahwa.top/post/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/actor/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/categories/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/interest/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/categories/metaphorsum/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/categories/post/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/snowflakes/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
     </url>
     
     <url>
         <loc>https://chiahwa.top/tags/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/the-actor-is-a-gander/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/visitor/</loc>
+        <lastmod>2018-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/beach/</loc>
+        <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/fahrenheit/</loc>
+        <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/nothing/</loc>
+        <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/riddles/</loc>
+        <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/the-beach-is-a-push/</loc>
+        <lastmod>2018-03-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/about/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/bookcase/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/extending-this-logic/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/lamb/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/page/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://chiahwa.top/tags/shell/</loc>
+        <lastmod>2018-02-09T00:00:00+00:00</lastmod>
     </url>
     
 </urlset>
